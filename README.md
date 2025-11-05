@@ -22,6 +22,15 @@ It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from
 
 Results marked with * are reported from the Zhou, Di, et al(2025) paper.
 
+### Publications Using SexTok
+
+| Year | Paper                                                                                                               | 
+| ---- | ------------------------------------------------------------------------------------------------------------------- | 
+| 2025 | Balle, Mary et al. **[“Choking on TikTok: Memetic Content and CRAAP Analysis of Educative and Entertaining #Chokekink Videos.”](https://pubmed.ncbi.nlm.nih.gov/40960736/)** Journal of sex research, 1-19. 17 Sep. 2025, doi:10.1080/00224499.2025.2550014 | 
+| 2025 | Zhou, Di, et al. **"[Consensus-Aware Balance Learning for Sexually Suggestive Video Classification.](https://dl.acm.org/doi/abs/10.1007/978-981-96-5809-1_10)"** International Conference on Computational Visual Media. Singapore: Springer Nature Singapore, 2025. |
+
+*If you’ve used SexTok in your work, we would love to know! Please email us enfafane \< at \> gmail.com to be included!*
+
 ### Citation  
  ```
 @inproceedings{george-surdeanu-2023-sexually,
