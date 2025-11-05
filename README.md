@@ -8,6 +8,20 @@ It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from
 
 <img src="docs/images/example.png" alt="Example" width="500">
 
+### Results
+| Methods               | Accuracy | **Micro** Precision | **Micro** Recall | **Micro** F1 | **Macro** Precision | **Macro** Recall | **Macro** F1 |
+|-----------------------|----------|---------------------|------------------|--------------|----------------------|------------------|--------------|
+| All–text Bert         | 68%      | 76%                | 50%             | 60%         | 71%                 | 63%             | 64%         |
+| Non–empty Text Bert   | 75%      | 78%                | 54%             | 64%         | 74%                 | 65%             | 68%         |
+| Visual–VideoMAE       | 70%      | 61%                | 51%             | 55%         | 68%                 | 57%             | 61%         |
+| Slowfast*              | 80%      | 95%                | 63%             | 76%         | 81%                 | 73%             | 76%         |
+| Timesformer*           | 75%      | 93%                | 52%             | 66%         | 75%                 | 65%             | 68%         |
+| ResNet*               | 77%      | 90%                | 75%             | 63%         | 77%                 | 64%             | 67%         |
+| Uniformer*           | 74%      | 93%                | 55%             | 69%         | 73%                 | 66%             | 68%         |
+| **[Zhou, Di, et al(2025)*](https://dl.acm.org/doi/abs/10.1007/978-981-96-5809-1_10)**                  | **86%**  | **97%**            | **81%**         | **88%**     | **85%**             | **84%**         | **84%**     |
+
+Results marked with * are reported from the Zhou, Di, et al(2025) paper.
+
 ### Citation  
  ```
 @inproceedings{george-surdeanu-2023-sexually,
